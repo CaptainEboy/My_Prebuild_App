@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "My_Prebuild_App",
+    "slug": "My_Prebuild_App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
