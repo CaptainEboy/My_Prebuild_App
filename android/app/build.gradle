@@ -1,4 +1,9 @@
 apply plugin: "com.android.application"
+apply plugin: 'applovin-quality-service'
+
+applovin {
+    apiKey "ukSdVMJff5aUHs3_suyucTfEI9bENTyU56BXLOsFJuGDfDhwyIpf4y7RJ2wT0tSQ6d4gOuWzfzwid2zWFZFKsQ"    
+}
 
 import com.android.build.OutputFile
 
